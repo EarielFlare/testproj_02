@@ -1,0 +1,5 @@
+regular_conversion_manager.c:122:6:RCM_RegisterRegConv	16	static,ignoring_inline_asm
+regular_conversion_manager.c:198:6:RCM_ExecNextConv	4	static,ignoring_inline_asm
+regular_conversion_manager.c:235:6:RCM_ReadOngoingConv	8	static
+regular_conversion_manager.c:278:10:RCM_ExecRegularConv	4	static,ignoring_inline_asm
+regular_conversion_manager.c:319:6:RCM_WaitForConv	0	static

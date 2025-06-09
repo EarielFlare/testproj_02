@@ -1,0 +1,5 @@
+sync_registers.c:33:9:RI_SetRegisterGlobal	8	static
+sync_registers.c:167:9:RI_SetRegisterMotor1	40	static
+sync_registers.c:576:9:RI_GetRegisterGlobal	8	static
+sync_registers.c:721:11:RI_GetRegisterMotor1	88	static
+sync_registers.c:1262:9:RI_MovString	12	static

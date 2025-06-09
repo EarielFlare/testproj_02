@@ -1,0 +1,12 @@
+mc_tasks.c:85:13:MCboot	8	static
+mc_tasks.c:249:13:TSK_SetChargeBootCapDelayM1	0	static
+mc_tasks.c:260:13:TSK_ChargeBootCapDelayHasElapsedM1	0	static
+mc_tasks.c:276:13:TSK_SetStopPermanencyTimeM1	0	static
+mc_tasks.c:287:13:TSK_StopPermanencyTimeHasElapsedM1	0	static
+mc_tasks.c:313:16:TSK_HighFrequencyTask	8	static
+mc_tasks.c:368:13:TSK_SafetyTask_PWMOFF	24	static
+mc_tasks.c:345:13:TSK_SafetyTask	8	static
+mc_tasks.c:162:13:MC_RunMotorControlTasks	16	static
+mc_tasks.c:426:13:TSK_HardwareFaultTask	8	static
+mc_tasks.c:439:13:UI_HandleStartStopButton_cb	8	static
+mc_tasks.c:457:13:mc_lock_pins	80	static

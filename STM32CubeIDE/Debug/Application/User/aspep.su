@@ -1,0 +1,9 @@
+aspep.c:180:6:ASPEP_start	8	static
+aspep.c:207:6:ASPEP_sendBeacon	12	static,ignoring_inline_asm
+aspep.c:251:6:ASPEP_sendPing	12	static,ignoring_inline_asm
+aspep.c:285:6:ASPEP_getBuffer	4	static
+aspep.c:404:9:ASPEP_sendPacket	24	static,ignoring_inline_asm
+aspep.c:590:6:ASPEP_HWDataTransmittedIT	16	static,ignoring_inline_asm
+aspep.c:668:10:ASPEP_RXframeProcess	32	static,ignoring_inline_asm
+aspep.c:836:6:ASPEP_HWDataReceivedIT	16	static
+aspep.c:924:6:ASPEP_HWReset	0	static

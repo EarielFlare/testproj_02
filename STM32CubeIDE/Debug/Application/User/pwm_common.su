@@ -1,0 +1,2 @@
+pwm_common.c:46:13:startTimers	8	static
+pwm_common.c:85:13:waitForPolarizationEnd	16	static
